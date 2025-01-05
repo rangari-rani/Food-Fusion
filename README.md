@@ -19,7 +19,7 @@ Some of the technologies used in the development of this web application are as 
 - **[MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)**:It provides a free cloud service to store MongoDB collections.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for creating custom, responsive designs quickly.
 - **[JWT (JSON Web Tokens)](https://jwt.io/)**: A standard for securely authenticating HTTP requests.
-- **[Vercel](https://vercel.com/)**: A platform for deploying and hosting modern web applications.
+- **[Render](https://render.com/)**: A platform for deploying and hosting modern web applications.
 
 ## Features
 - **User Authentication**: Secure login and signup for customers using JWT.
